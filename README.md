@@ -1,11 +1,12 @@
-# React Blockies
+# React 18 Blockies
 
-This is a simple port of https://github.com/alexvandesande/blockies to a react component.  
+This is a React 18 & typescript port of https://github.com/stephensprinkle-zz/react-blockies
+which in turn is a port of https://github.com/alexvandesande/blockies.
 
 # Example:
 
 ```javascript
-import Blockies from 'react-blockies';
+import Blockies from 'react-18-blockies';
 
 export const myBlockies = () => (
   <Blockies
