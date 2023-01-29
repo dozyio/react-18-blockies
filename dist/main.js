@@ -5,6 +5,7 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports["default"] = void 0;
 var _react = require("react");
+var _jsxRuntime = require("react/jsx-runtime");
 var Identicon = function Identicon(_ref) {
   var seed = _ref.seed,
     _ref$className = _ref.className,
@@ -113,7 +114,7 @@ var Identicon = function Identicon(_ref) {
   (0, _react.useEffect)(function () {
     generateIdenticon();
   });
-  return /*#__PURE__*/React.createElement("canvas", {
+  return /*#__PURE__*/(0, _jsxRuntime.jsx)("canvas", {
     ref: canvasRef,
     className: className
   });
