@@ -1,6 +1,6 @@
 {
   "name": "react-18-blockies",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Ethereum Style Identicons for React 18",
   "main": "dist/main.js",
   "types": "dist/main.d.ts",
