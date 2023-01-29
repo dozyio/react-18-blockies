@@ -113,7 +113,10 @@ var Identicon = function Identicon(_ref) {
   (0, _react.useEffect)(function () {
     generateIdenticon();
   });
-  return <canvas ref={canvasRef} className={className} />;
+  return /*#__PURE__*/React.createElement("canvas", {
+    ref: canvasRef,
+    className: className
+  });
 };
 var _default = Identicon;
 exports["default"] = _default;
