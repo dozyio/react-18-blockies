@@ -1,6 +1,6 @@
 # React 18 Blockies
 
-This is a React 18 & typescript port of https://github.com/stephensprinkle-zz/react-blockies
+This is a React 18 & Typescript port of https://github.com/stephensprinkle-zz/react-blockies
 which in turn is a port of https://github.com/alexvandesande/blockies.
 
 # Example:
